@@ -4,6 +4,7 @@
 - [Erik Meijer](https://twitter.com/headinthebox) - One Hacker Way https://youtu.be/FvMuPtuvP5w
 - [Erik Meijer](https://twitter.com/headinthebox) - Category Theory, The essence of interface-based design https://youtu.be/JMP6gI5mLHc
 - [Gary Bernhardt](https://twitter.com/garybernhardt) - Wat https://www.destroyallsoftware.com/talks/wat
+- [Josh Evans](https://twitter.com/Ops_Engineering) - Mastering Chaos: A Netflix Guide to Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
 - [Konstantin Kudryashov](https://twitter.com/everzet) - Min-maxing Software Costs https://youtu.be/uQUxJObxTUs
 - [Marco Pivetta](https://twitter.com/Ocramius) - Extremely Defensive PHP https://youtu.be/8d2AtAGJPno
 - [Matthias Verraes](https://twitter.com/mathiasverraes) - Extract Till You Drop https://youtu.be/1_dpOZmKXBw
@@ -42,8 +43,8 @@
 
 # Candidates
 
-- Mastering Chaos - A Netflix Guide to Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
 - THE FRAMEWORK AS AN IMPLEMENTATION DETAIL http://protalk.me/the-framework-as-an-implementation-detail
+- [Greg Young](https://twitter.com/gregyoung) - Stop Over-Engenering https://youtu.be/GRr4xeMn1uU
 
 # Note
 
