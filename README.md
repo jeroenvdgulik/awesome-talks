@@ -32,6 +32,10 @@
 - [Scott Wlaschin](https://twitter.com/ScottWlaschin) - Railway oriented programming; Error handling in functional languages https://www.youtube.com/watch?v=UvD1VjRvGIk
 - Brian Beckman - Don't fear the monad https://youtu.be/ZhuHCtR3xq8
 
+# Javascript
+
+- [Shai Reznik](https://twitter.com/shai_reznik) - Angular Router Authentication and Authorization Real LIVE LIVE LIVE LIVE LIVE Demo  https://www.youtube.com/watch?v=yjxOYsRkozQ
+
 # Enjoyable
 
 - Brian Troutwine — The Charming Genius of the Apollo Guidance Computer https://www.youtube.com/watch?v=d1nz7vgyUh8
