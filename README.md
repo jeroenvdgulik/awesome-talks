@@ -4,6 +4,7 @@
 - [Erik Meijer](https://twitter.com/headinthebox) - One Hacker Way https://youtu.be/FvMuPtuvP5w
 - [Erik Meijer](https://twitter.com/headinthebox) - Category Theory, The essence of interface-based design https://youtu.be/JMP6gI5mLHc
 - [Gary Bernhardt](https://twitter.com/garybernhardt) - Wat https://www.destroyallsoftware.com/talks/wat
+- [James Coplin](https://twitter.com/jcoplien) - How Agile and OO have lost their way together https://www.youtube.com/watch?v=DOyNfmqwR98
 - [Josh Evans](https://twitter.com/Ops_Engineering) - Mastering Chaos: A Netflix Guide to Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
 - [Konstantin Kudryashov](https://twitter.com/everzet) - Min-maxing Software Costs https://youtu.be/uQUxJObxTUs
 - [Marco Pivetta](https://twitter.com/Ocramius) - Extremely Defensive PHP https://youtu.be/8d2AtAGJPno
