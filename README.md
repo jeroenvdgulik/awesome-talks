@@ -17,7 +17,7 @@
 - [Robert C Martin(Uncle Bob)](https://twitter.com/unclebobmartin) - Clean Architecture and Design https://youtu.be/asLUTiJJqdE
 - [Robert C Martin(Uncle Bob)](https://twitter.com/unclebobmartin) - Architecture the Lost Years https://youtu.be/hALFGQNeEnU
 - [Robert C Martin(Uncle Bob)](https://twitter.com/unclebobmartin) - Functional Programming; What? Why? When? https://youtu.be/7Zlp9rKHGD4
-- [Robert C Martin(Uncle Bob)](https://www.youtube.com/watch?v=TMuno5RZNeE) - SOLID Principles of Object Oriented and Agile Design
+- [Robert C Martin(Uncle Bob)](https://twitter.com/unclebobmartin) - SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE
 - [Ross Tuck](https://twitter.com/rosstuck) - Models & Service Layers; Hemoglobin & Hobgoblins https://youtu.be/ajhqScWECMo
 - [Ross Tuck](https://twitter.com/rosstuck) - How We Talk About Tech https://youtu.be/nTi8jw86-_s
 - Russ Ackoff - System Thinking https://youtu.be/OqEeIG8aPPk
