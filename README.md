@@ -11,6 +11,7 @@
 - [Matthias Verraes](https://twitter.com/mathiasverraes) - Extract Till You Drop https://youtu.be/1_dpOZmKXBw
 - [Matthias Verraes](https://twitter.com/mathiasverraes) - Unbreakable Domain Models https://youtu.be/ZJ63ltuwMaE
 - Misko Hevery - The Clean Code Talks -- Inheritance, Polymorphism, & Testing https://youtu.be/4F72VULWFvc
+- [Olaf Hellman](https://twitter.com/olofhellman) - Silly Lightning Talk About Naming Things https://vimeo.com/174020173
 - [Rafael Dohms](https://twitter.com/rdohms) - Writing code that lasts https://www.youtube.com/watch?v=rMW6MZIREgg
 - Ricard Clau - Modern Software Architectures https://youtu.be/qj4xZZYltI4
 - [Rich Hickey](https://twitter.com/richhickey) - Simple Made Easy https://www.infoq.com/presentations/Simple-Made-Easy
