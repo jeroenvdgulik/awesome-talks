@@ -3,7 +3,6 @@
 - [Alberto Brandolini](https://twitter.com/ziobrando) - Chasing Elephants https://youtu.be/klsksbDJOhI
 - [Erik Meijer](https://twitter.com/headinthebox) - One Hacker Way https://youtu.be/FvMuPtuvP5w
 - [Erik Meijer](https://twitter.com/headinthebox) - Category Theory, The essence of interface-based design https://youtu.be/JMP6gI5mLHc
-- [Gary Bernhardt](https://twitter.com/garybernhardt) - Wat https://www.destroyallsoftware.com/talks/wat
 - [James Coplin](https://twitter.com/jcoplien) - How Agile and OO have lost their way together https://www.youtube.com/watch?v=DOyNfmqwR98
 - [Josh Evans](https://twitter.com/Ops_Engineering) - Mastering Chaos: A Netflix Guide to Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
 - [Konstantin Kudryashov](https://twitter.com/everzet) - Min-maxing Software Costs https://youtu.be/uQUxJObxTUs
@@ -35,8 +34,15 @@
 - [Scott Wlaschin](https://twitter.com/ScottWlaschin) - Railway oriented programming; Error handling in functional languages https://www.youtube.com/watch?v=UvD1VjRvGIk
 - Brian Beckman - Don't fear the monad https://youtu.be/ZhuHCtR3xq8
 
-# Javascript
+# Language Specific
 
+## Scala
+
+- [Paul Phillips](https://twitter.com/contrarivariant) - We're Doing It All Wrong https://www.youtube.com/watch?v=TS1lpKBMkgg
+
+## Javascript
+
+- [Gary Bernhardt](https://twitter.com/garybernhardt) - Wat https://www.destroyallsoftware.com/talks/wat
 - [Shai Reznik](https://twitter.com/shai_reznik) - Angular Router Authentication and Authorization Real LIVE LIVE LIVE LIVE LIVE Demo  https://www.youtube.com/watch?v=yjxOYsRkozQ
 
 # Enjoyable
