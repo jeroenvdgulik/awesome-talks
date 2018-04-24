@@ -35,6 +35,10 @@
 - [Scott Wlaschin](https://twitter.com/ScottWlaschin) - Railway oriented programming; Error handling in functional languages https://www.youtube.com/watch?v=UvD1VjRvGIk
 - Brian Beckman - Don't fear the monad https://youtu.be/ZhuHCtR3xq8
 
+# Docker
+
+- [Jérôme Petazzoni](https://twitter.com/jpetazzo) - Cgroups, namespaces, and beyond: what are containers made from? https://www.youtube.com/watch?v=sK5i-N34im8
+
 # Language Specific
 
 ## Scala
