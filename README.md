@@ -22,6 +22,7 @@
 - [Robert C Martin(Uncle Bob)](https://twitter.com/unclebobmartin) - SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE
 - [Ross Tuck](https://twitter.com/rosstuck) - Models & Service Layers; Hemoglobin & Hobgoblins https://youtu.be/ajhqScWECMo
 - [Ross Tuck](https://twitter.com/rosstuck) - How We Talk About Tech https://youtu.be/nTi8jw86-_s
+- [Ross Tuck](https://twitter.com/rosstuck) - Everything is Anything: The Unlikely Wisdom of Historical Stabbings  https://youtu.be/GObX6DJ7afM
 - Russ Ackoff - System Thinking https://youtu.be/OqEeIG8aPPk
 - [Sandi Metz](https://twitter.com/sandimetz) - Nothing is Something https://youtu.be/29MAL8pJImQ
 - [Shawn McCool](https://twitter.com/ShawnMcCool) & [Mitchell van Wijngaarden](https://twitter.com/mitchellvanw) - A Talk About Naming Things Talk https://youtu.be/2ytO9XqEr3A
