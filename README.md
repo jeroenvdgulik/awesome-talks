@@ -15,7 +15,7 @@
 - Misko Hevery - The Clean Code Talks -- Inheritance, Polymorphism, & Testing https://youtu.be/4F72VULWFvc
 - [Olaf Hellman](https://twitter.com/olofhellman) - Silly Lightning Talk About Naming Things https://vimeo.com/174020173
 - [Rafael Dohms](https://twitter.com/rdohms) - Writing code that lasts https://www.youtube.com/watch?v=rMW6MZIREgg
-- Ricard Clau - Modern Software Architectures https://youtu.be/qj4xZZYltI4
+- [Ricard Clau](https://twitter.com/ricardclau) - Modern Software Architectures https://youtu.be/qj4xZZYltI4
 - [Rich Hickey](https://twitter.com/richhickey) - Simple Made Easy https://www.infoq.com/presentations/Simple-Made-Easy
 - [Robert C Martin(Uncle Bob)](https://twitter.com/unclebobmartin) - Clean Architecture and Design https://youtu.be/asLUTiJJqdE
 - [Robert C Martin(Uncle Bob)](https://twitter.com/unclebobmartin) - Architecture the Lost Years https://youtu.be/hALFGQNeEnU
