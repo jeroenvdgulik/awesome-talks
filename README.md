@@ -61,6 +61,7 @@
 - James Veitch - This is what happens when you reply to spam email https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 - Hans Rosling - The best stats you've ever seen https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en
 - Pat Kelly - Thought Leadership - https://www.youtube.com/watch?v=_ZBKX-6Gz6A
+- Randy Pausch Last Lecture - Achieving Your Childhood Dreams https://youtu.be/ji5_MqicxSo
 
 # Candidates
 
