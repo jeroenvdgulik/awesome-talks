@@ -7,7 +7,8 @@
 - [James Coplin](https://twitter.com/jcoplien) - How Agile and OO have lost their way together https://www.youtube.com/watch?v=DOyNfmqwR98
 - [Joe Armstrong](https://twitter.com/joeerl) - The Mess We're In https://youtu.be/lKXe3HUG2l4
 - [Josh Evans](https://twitter.com/Ops_Engineering) - Mastering Chaos: A Netflix Guide to Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
-- [Kevlin Henney](https://twitter.com/search?q=Kevlin%20Henney) - Agility ≠ Speed https://www.youtube.com/watch?v=XQN9hYxWGa0
+- [Kevlin Henney](https://twitter.com/KevlinHenney) - Agility ≠ Speed https://www.youtube.com/watch?v=XQN9hYxWGa0
+- [Kevlin Henny](https://twitter.com/KevlinHenney) - Programming with GUTs https://youtu.be/azoucC_fwzw
 - [Konstantin Kudryashov](https://twitter.com/everzet) - Min-maxing Software Costs https://youtu.be/uQUxJObxTUs
 - [Marco Pivetta](https://twitter.com/Ocramius) - Extremely Defensive PHP https://youtu.be/8d2AtAGJPno
 - [Matthias Verraes](https://twitter.com/mathiasverraes) - Extract Till You Drop https://youtu.be/1_dpOZmKXBw
