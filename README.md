@@ -2,6 +2,7 @@
 
 - [Alberto Brandolini](https://twitter.com/ziobrando) - Chasing Elephants https://youtu.be/klsksbDJOhI
 - [Dave Thomas](https://twitter.com/pragdave) - Agile is dead https://youtu.be/a-BOSpxYJ9M
+- [Dan Na](https://twitter.com/dxna) - Pushing through Friction https://www.youtube.com/watch?v=8bxZuzDKoI0
 - [Erik Meijer](https://twitter.com/headinthebox) - One Hacker Way https://youtu.be/FvMuPtuvP5w
 - [Erik Meijer](https://twitter.com/headinthebox) - Category Theory, The essence of interface-based design https://youtu.be/JMP6gI5mLHc
 - [James Coplin](https://twitter.com/jcoplien) - How Agile and OO have lost their way together https://www.youtube.com/watch?v=DOyNfmqwR98
