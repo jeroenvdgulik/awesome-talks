@@ -28,6 +28,7 @@
 - [Ross Tuck](https://twitter.com/rosstuck) - How We Talk About Tech https://youtu.be/nTi8jw86-_s
 - [Ross Tuck](https://twitter.com/rosstuck) - Everything is Anything: The Unlikely Wisdom of Historical Stabbings  https://youtu.be/GObX6DJ7afM
 - Russ Ackoff - System Thinking https://youtu.be/OqEeIG8aPPk
+- Russ Ackoff - Idealized Design, Systems Thinking, and a Model for Outlier Innovation https://www.youtube.com/watch?v=spm2HUxgI30
 - [Sandi Metz](https://twitter.com/sandimetz) - Nothing is Something https://youtu.be/29MAL8pJImQ
 - [Shawn McCool](https://twitter.com/ShawnMcCool) & [Mitchell van Wijngaarden](https://twitter.com/mitchellvanw) - A Talk About Naming Things Talk https://youtu.be/2ytO9XqEr3A
 - [Vaughn Vernon](https://twitter.com/VaughnVernon) - How You Can Architect and Develop Enterprise Mission-Critical Applications with Domain-Driven Design - https://youtu.be/aieoAWXNjl0
